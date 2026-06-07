@@ -13,21 +13,19 @@ Short Layer 2 Vlan project where each workstations are connected to the same swi
 
 <p align="center">
 Switch Configuration:  <br/>
-<img src="https://imgur.com/a/YMbYK7h" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kJcBvyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Router Configuration:  <br/>
-<img src="https://imgur.com/a/dnZM0DD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6ymXZ2F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Layer 2 Vlan Network Diagram:  <br/>
-<img src="https://imgur.com/a/MggQTaO" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ng4EuLu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify Connectivity on Workstation:  <br/>
-<img src="https://imgur.com/a/BBn15p7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZPMTYKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
