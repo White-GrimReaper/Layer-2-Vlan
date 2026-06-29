@@ -9,7 +9,7 @@ Short Layer 2 Vlan project where each workstations are connected to the same swi
 
 - <b>Cisco Packet Tracer</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program:</h2>
 
 <p align="center">
 Switch Configuration:  <br/>
